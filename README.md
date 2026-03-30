@@ -4,6 +4,7 @@ This repository contains my personal documentation and walkthroughs for cybersec
 
  Labs Completed
 simple Ctf : Focused on scanning, enumeration, and privilege escalation.
+Click here to view the full PDF Writeup](./Simple_CTF_Writeup.pdf)
 
 
  🛠️ Tools Used
